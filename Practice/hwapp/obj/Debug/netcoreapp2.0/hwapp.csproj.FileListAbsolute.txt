@@ -1,0 +1,10 @@
+C:\Users\James Evans\Documents\GitHub\LearningCSharp\Practice\hwapp\bin\Debug\netcoreapp2.0\hwapp.deps.json
+C:\Users\James Evans\Documents\GitHub\LearningCSharp\Practice\hwapp\bin\Debug\netcoreapp2.0\hwapp.runtimeconfig.json
+C:\Users\James Evans\Documents\GitHub\LearningCSharp\Practice\hwapp\bin\Debug\netcoreapp2.0\hwapp.runtimeconfig.dev.json
+C:\Users\James Evans\Documents\GitHub\LearningCSharp\Practice\hwapp\bin\Debug\netcoreapp2.0\hwapp.dll
+C:\Users\James Evans\Documents\GitHub\LearningCSharp\Practice\hwapp\bin\Debug\netcoreapp2.0\hwapp.pdb
+C:\Users\James Evans\Documents\GitHub\LearningCSharp\Practice\hwapp\obj\Debug\netcoreapp2.0\hwapp.csproj.CoreCompileInputs.cache
+C:\Users\James Evans\Documents\GitHub\LearningCSharp\Practice\hwapp\obj\Debug\netcoreapp2.0\hwapp.AssemblyInfoInputs.cache
+C:\Users\James Evans\Documents\GitHub\LearningCSharp\Practice\hwapp\obj\Debug\netcoreapp2.0\hwapp.AssemblyInfo.cs
+C:\Users\James Evans\Documents\GitHub\LearningCSharp\Practice\hwapp\obj\Debug\netcoreapp2.0\hwapp.dll
+C:\Users\James Evans\Documents\GitHub\LearningCSharp\Practice\hwapp\obj\Debug\netcoreapp2.0\hwapp.pdb
